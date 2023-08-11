@@ -26,6 +26,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a#normal {
+    font-size: 18px;
+}
 p.margem {
     font-size: 20px;
     font-family: "sriracha";
